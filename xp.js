@@ -82,4 +82,4 @@ darky.on('message', async xpcore => {
   .setDescription(content)
   xpcore.channel.send(xptop2)
 }});
-darky.login('NzM0MTA4MTIyMDIwMzE1MjA3.XxM5dw.JZLTfqgTzt0U8Q-5bk9mqabIJrw')
+darky.login('token')
