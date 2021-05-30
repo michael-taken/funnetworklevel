@@ -1,0 +1,18 @@
+{
+    "name": "xp-core",
+    "version": "0.0.1",
+    "description": "Simple XP System Using DB",
+    "main": "xp.js",
+    "author": "DarkBoy",
+    "license": "MIT",
+    "dependencies": {
+        "canvacord": "^4.0.1",
+        "canvas": "^2.6.1",
+        "config-yml": "^0.10.3",
+        "discord.js": "^12.3.1",
+        "quick.db": "^7.1.1"
+    },
+    "scripts": {
+        "start": "node xp.js"
+    }
+}
